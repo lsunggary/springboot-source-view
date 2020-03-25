@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=com.imooc.sb2.initializer.FirstInitializer
+org.springframework.context.ApplicationListener=com.imooc.sb2.listener.FistListener,com.imooc.sb2.listener.FourthListener
